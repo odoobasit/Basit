@@ -1,0 +1,6 @@
+1.   git init
+2.   dir/ls
+3.   git add .
+4.   git commit -m "any text here"
+5.   git remote add origin "url"
+6.   git push -u origin master
